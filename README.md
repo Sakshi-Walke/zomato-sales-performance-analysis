@@ -4,7 +4,7 @@
 ##  Project Overview
 This project presents an end-to-end data analysis of Zomato's sales, user behavior, and city-level performance using Power BI.
 
-The dashboard helps stakeholders understand revenue trends, user engagement, and operational performance across 800+ cities.
+The dashboard helps stakeholders understand revenue trends, user engagement, and operational performance across cities.
 
 ---
 
@@ -90,6 +90,11 @@ Top Cities by Revenue:
 ---
 
 ##  Dashboard Preview
+<img width="990" height="566" alt="image" src="https://github.com/user-attachments/assets/61763282-df08-4c57-a90b-0f6f740add65" />
+<img width="993" height="570" alt="image" src="https://github.com/user-attachments/assets/0121981b-bf0b-4bd3-9e1b-db566498cb49" />
+<img width="995" height="568" alt="image" src="https://github.com/user-attachments/assets/dc29c1ae-101c-40a4-800b-f98c4f9b5990" />
+
+
 https://drive.google.com/file/d/1OUKCwbiJe7JRKcMkrpgDwWeIlHx13MbW/view?usp=sharing
 
 ---
